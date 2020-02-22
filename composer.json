@@ -1,5 +1,5 @@
 {
-    "name": "cabrera/hello-world",
+    "name": "waters1612/hello-world",
     "description": "A simple Hello World for composer",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"cabrera\\HelloWorld\\": "src/"}
+        "psr-4": {"waters1612\\HelloWorld\\": "src/"}
     },
     "require": {}
 }
