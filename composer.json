@@ -1,0 +1,17 @@
+{
+    "name": "cabrera/hello-world",
+    "description": "A simple Hello World for composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Félix Cabrera",
+            "email": "cabreraesqueda@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"cabrera\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
