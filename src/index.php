@@ -1,6 +1,6 @@
 <?php
 
-namespace cabrera\HelloWorld;
+namespace waters1612\HelloWorld;
 
 class Index
 {
